@@ -1,0 +1,17 @@
+HASIL PENGUJIAN PROGRAM REKAP NILAI
+
+T1 - Rata-rata nilai: PASS
+T2 - Nilai tertinggi: PASS
+T3 - Nilai terendah: PASS
+T4 - Batas kelulusan: PASS
+T5 - Di bawah batas kelulusan: PASS
+T6 - Nilai minimum: PASS
+T7 - Nilai maksimum: PASS
+T8 - Nilai di bawah batas: PASS
+T9 - Nilai di atas batas: PASS
+T10 - Input berupa huruf: PASS
+T11 - Data kosong: PASS
+
+Catatan:
+Hasil di atas merupakan hasil yang diharapkan dari test otomatis.
+Jalankan pengujian terlebih dahulu untuk memastikan seluruh test PASS.

@@ -1,0 +1,5 @@
+Andi,80
+Budi,65
+Citra,90
+Dina,75
+Eka,50

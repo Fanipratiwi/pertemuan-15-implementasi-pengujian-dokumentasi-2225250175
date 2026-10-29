@@ -1,0 +1,16 @@
+REKAP DAN ANALISIS NILAI MATEMATIKA
+========================================
+
+1. Andi | Nilai: 80 | Status: Lulus
+2. Budi | Nilai: 65 | Status: Tidak Lulus
+3. Citra | Nilai: 90 | Status: Lulus
+4. Dina | Nilai: 75 | Status: Lulus
+5. Eka | Nilai: 50 | Status: Tidak Lulus
+
+----------------------------------------
+Jumlah siswa   : 5
+Rata-rata      : 72.00
+Nilai tertinggi: 90
+Nilai terendah : 50
+Jumlah lulus   : 3
+Tidak lulus    : 2
